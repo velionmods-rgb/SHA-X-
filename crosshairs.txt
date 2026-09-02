@@ -1,1 +1,9 @@
+CrosshairsANIMATED = {
+    "RAW-GIF-LINK-1",
+    "RAW-GIF-LINK-2"
+}
 
+CrosshairsSTATIC = {
+    "RAW-PNG-LINK-1",
+    "RAW-PNG-LINK-2"
+}
