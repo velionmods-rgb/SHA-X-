@@ -1,1 +1,9 @@
+CursorsANIMATED = {
+    "RAW-GIF-LINK-1",
+    "RAW-GIF-LINK-2"
+}
 
+CursorsSTATIC = {
+    "RAW-PNG-LINK-1",
+    "RAW-PNG-LINK-2"
+}
