@@ -1,1 +1,9 @@
-
+{
+  "licenses": [
+    {
+      "key": "XXXX-XXXX-XXXX",
+      "discord": "Username",
+      "active": true
+    }
+  ]
+}
