@@ -3,7 +3,8 @@
     {
       "key": "TEST-TEST-TEST",
       "discord": "595966936307990529",
-      "active": true
+      "active": true,
+      "plan": "PREMIUM"
     }
   ]
 }
