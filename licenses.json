@@ -40,7 +40,7 @@
       "key": "Z72D-U8DN-E5ZW",
       "discord": "595966936307990529",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
