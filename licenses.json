@@ -260,7 +260,7 @@
       "mining": false,
       "lumberjack": false,
       "trucker": false,
-      "active": true,
+      "active": false,
       "hwid": "",
       "ipadresse": ""
     },
