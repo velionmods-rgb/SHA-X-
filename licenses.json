@@ -3,632 +3,266 @@
     {
       "key": "0001",
       "discord": "adas",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "QRFK-CG77-Z4E3",
       "discord": "5959669363075990529",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "2VJV-GDNS-FAYT",
       "discord": "595966936307321990529",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "Z72D-U8DN-E5ZW",
       "discord": "595966936307990529",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "FDO2-XI03-4DO5",
       "discord": "711943530125328474",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "X4L3-X058-BD95",
       "discord": "872691336275427338",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "FT0D-89B1-F9AC",
       "discord": "1469800504971231433",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "A82B-6AJ8-36D1",
       "discord": "702820558248869949",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "BA0K-N09A-91C3",
       "discord": "1069342907582124133",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "91UB-DE19-MHD0",
       "discord": "1479562078925754388",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "71B3-KA7X-NG9A",
       "discord": "999061888652562502",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "94X2-9XK1-FX12",
       "discord": "1440380669317611591",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "72B2-QU8I-FDO6",
       "discord": "682216913237049352",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "NBA9-CR7B-10MS",
       "discord": "1087859720255184956",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "B0EY-S3B3-0X93",
       "discord": "817727191005659137",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "B0PK-A98C-3A1C",
       "discord": "1316519157965258813",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "FU€K-Y0U-NI66A",
       "discord": "495542434403450880",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "B0RA-C3P0-B53O",
       "discord": "295344209492443137",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
-    },
-    {
-      "key": "X",
-      "discord": "X",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "C0PD-17BD-6ACD",
       "discord": "1124729313468624936",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "FXA0-0B1C-ABC7",
       "discord": "1460219752520880181",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "KE90-48B1-C0AI",
       "discord": "528972264574812160",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     },
     {
       "key": "NOPE",
       "discord": "1257412254513496195",
-      "active": true
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
     }
   ]
 }
