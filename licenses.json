@@ -47,7 +47,7 @@
       "mining": false,
       "lumberjack": false,
       "trucker": false,
-      "electrican": false,
+      "electrican": true,
       "active": true,
       "hwid": "d3790c68-8e17-420f-9d35-738ac7bf68b5",
       "ipadresse": "92.208.221.88"
