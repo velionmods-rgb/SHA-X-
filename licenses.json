@@ -253,6 +253,18 @@
       "ipadresse": ""
     },
     {
+      "key": "FABIAN",
+      "discord": "1323612523643273327",
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
+    },
+    {
       "key": "NOPE",
       "discord": "1257412254513496195",
       "fishing": true,
