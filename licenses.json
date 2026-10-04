@@ -274,6 +274,32 @@
       "ipadresse": ""
     },
     {
+      "key": "B91A-DJ3S-CU91",
+      "discord": "1037495456273547414",
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
+    },
+    {
+      "key": "C0AP-JVA3-A91B",
+      "discord": "1420663031766974537",
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
+    },
+    {
       "key": "FABIAN",
       "discord": "495542434403450880",
       "fishing": true,
