@@ -326,6 +326,19 @@
       "ipadresse": ""
     },
     {
+      "key": "FB8A-18CA-DAB0",
+      "discord": "1283056124400238675",
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
+    },
+    {
       "key": "F97Z-B8QT-1AC4",
       "discord": "564731290234912780",
       "fishing": true,
