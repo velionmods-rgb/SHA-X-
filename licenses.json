@@ -1,6 +1,19 @@
 {
   "licenses": [
     {
+      "key": "13BC-C0CK-A17C",
+      "discord": "602814988163481620",
+      "fishing": true,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
+    },
+    {
       "key": "0001",
       "discord": "adas",
       "fishing": true,
