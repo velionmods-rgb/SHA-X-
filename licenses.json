@@ -365,6 +365,19 @@
       "ipadresse": ""
     },
     {
+      "key": "TH0B-RA17-CAB1",
+      "discord": "254720783014690837",
+      "fishing": true,
+      "oil": true,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": ""
+    },
+    {
       "key": "F97Z-B8QT-1AC4",
       "discord": "564731290234912780",
       "fishing": true,
