@@ -433,6 +433,20 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "ZXEB-M5FS-IXEU",
+      "discord": "1280439009109213206",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "2026-10-25 06:51:00"
     }
   ]
 }
