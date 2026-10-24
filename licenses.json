@@ -433,20 +433,6 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
-    },
-    {
-      "key": "POVN-FTE2-92C2",
-      "discord": "1280439009109213206",
-      "fishing": true,
-      "oil": false,
-      "mining": false,
-      "lumberjack": false,
-      "trucker": false,
-      "electrican": false,
-      "active": true,
-      "hwid": "",
-      "ipadresse": "",
-      "expires": "2026-11-25 11:31:00"
     }
   ]
 }
