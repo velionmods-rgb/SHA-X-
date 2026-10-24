@@ -437,7 +437,7 @@
     {
       "key": "ZXEB-M5FS-IXEU",
       "discord": "1280439009109213206",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
