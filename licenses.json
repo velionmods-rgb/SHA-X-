@@ -439,7 +439,7 @@
       "discord": "1280439009109213206",
       "fishing": true,
       "oil": true,
-      "mining": false,
+      "mining": true,
       "lumberjack": false,
       "trucker": false,
       "electrican": false,
