@@ -441,7 +441,7 @@
       "oil": true,
       "mining": true,
       "lumberjack": true,
-      "trucker": true,
+      "trucker": false,
       "electrican": false,
       "active": true,
       "hwid": "",
