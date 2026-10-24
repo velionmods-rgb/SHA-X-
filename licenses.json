@@ -442,7 +442,7 @@
       "mining": true,
       "lumberjack": true,
       "trucker": false,
-      "electrican": false,
+      "electrican": true,
       "active": true,
       "hwid": "",
       "ipadresse": "",
