@@ -11,7 +11,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "0001",
@@ -24,7 +25,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "QRFK-CG77-Z4E3",
@@ -37,7 +39,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "2VJV-GDNS-FAYT",
@@ -50,7 +53,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "Z72D-U8DN-E5ZW",
@@ -63,7 +67,8 @@
       "electrican": true,
       "active": true,
       "hwid": "9c4d633533344fe23b0140246b3243714237b8bb87758025d72fbb16f47b0527",
-      "ipadresse": "8440d9917dfd0d278159db3e7c59361d2515b5f5340c28b269e1b15924c7b4db"
+      "ipadresse": "8440d9917dfd0d278159db3e7c59361d2515b5f5340c28b269e1b15924c7b4db",
+      "expires": "never"
     },
     {
       "key": "FDO2-XI03-4DO5",
@@ -76,7 +81,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "X4L3-X058-BD95",
@@ -89,7 +95,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "FT0D-89B1-F9AC",
@@ -102,7 +109,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "A82B-6AJ8-36D1",
@@ -115,7 +123,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "BA0K-N09A-91C3",
@@ -128,7 +137,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "91UB-DE19-MHD0",
@@ -141,7 +151,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "71B3-KA7X-NG9A",
@@ -154,7 +165,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "94X2-9XK1-FX12",
@@ -167,7 +179,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "72B2-QU8I-FDO6",
@@ -180,7 +193,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "NBA9-CR7B-10MS",
@@ -193,7 +207,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "B0EY-S3B3-0X93",
@@ -206,7 +221,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "B0PK-A98C-3A1C",
@@ -219,7 +235,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "FU€K-Y0U-NI66A",
@@ -232,7 +249,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "B0RA-C3P0-B53O",
@@ -245,7 +263,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "C0PD-17BD-6ACD",
@@ -258,7 +277,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "FXA0-0B1C-ABC7",
@@ -271,7 +291,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "KE90-48B1-C0AI",
@@ -284,7 +305,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "B91A-DJ3S-CU91",
@@ -297,7 +319,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "C0AP-JVA3-A91B",
@@ -310,7 +333,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "FABIAN",
@@ -323,7 +347,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "F0TZ-E18B-X8AB",
@@ -336,7 +361,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "FB8A-18CA-DAB0",
@@ -349,7 +375,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "K0BA-C91B-Z8A1",
@@ -362,7 +389,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "XA8B-81CA-FDT0",
@@ -375,7 +403,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "TH0B-RA17-CAB1",
@@ -388,7 +417,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     },
     {
       "key": "F97Z-B8QT-1AC4",
@@ -401,7 +431,8 @@
       "electrican": false,
       "active": true,
       "hwid": "",
-      "ipadresse": ""
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
