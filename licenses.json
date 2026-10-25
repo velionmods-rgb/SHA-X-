@@ -451,7 +451,7 @@
     {
       "key": "IIWG-70V7-86QA",
       "discord": "884038194780323890",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
