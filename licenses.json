@@ -447,6 +447,20 @@
       "hwid": "a44c7d9a2c8e957fbce01fe6810e214d999a2bd421808835cd5f2d73b8e98544",
       "ipadresse": "6c9081a8a56d1f6a8ddfb71abc9c9ac40582c06f5a7b48fc4e4503a118874c77",
       "expires": "2026-10-25 06:51:00"
+    },
+    {
+      "key": "IIWG-70V7-86QA",
+      "discord": "884038194780323890",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
