@@ -493,7 +493,7 @@
     {
       "key": "WQ9K-G4WA-QYYE",
       "discord": "1536833672312000532",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
