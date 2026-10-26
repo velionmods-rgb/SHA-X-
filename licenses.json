@@ -494,7 +494,7 @@
       "key": "WQ9K-G4WA-QYYE",
       "discord": "1536833672312000532",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
