@@ -116,7 +116,7 @@
       "key": "A82B-6AJ8-36D1",
       "discord": "702820558248869949",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
