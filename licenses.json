@@ -465,7 +465,7 @@
     {
       "key": "V1GU-IKZW-EZ4O",
       "discord": "1167856870258638919",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
