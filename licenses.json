@@ -479,7 +479,7 @@
     {
       "key": "5PUD-40JK-IX0R",
       "discord": "840346706004410410",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
