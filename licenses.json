@@ -396,7 +396,7 @@
       "key": "XA8B-81CA-FDT0",
       "discord": "907211840667418654",
       "fishing": true,
-      "oil": true,
+      "oil": false,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
