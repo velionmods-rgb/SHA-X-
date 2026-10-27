@@ -528,8 +528,8 @@
       "trucker": false,
       "electrican": false,
       "active": true,
-      "hwid": "",
-      "ipadresse": "",
+      "hwid": "3682b19a4d86479dd60c28b81e0589b689396377e920ad3ee11e819707e6367d",
+      "ipadresse": "3da58d6d7ccf7d23e5410fd16ca0849ed07fa526e6404e19e72cb80865064d6a",
       "expires": "never"
     }
   ]
