@@ -522,7 +522,7 @@
       "key": "S58M-YG10-SVIP",
       "discord": "837692190796152932",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
