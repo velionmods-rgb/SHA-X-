@@ -401,7 +401,7 @@
       "lumberjack": false,
       "trucker": false,
       "electrican": false,
-      "active": true,
+      "active": false,
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
