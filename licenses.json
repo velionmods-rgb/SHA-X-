@@ -507,7 +507,7 @@
     {
       "key": "O8W5-36F2-VCKR",
       "discord": "1386615307879317587",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
