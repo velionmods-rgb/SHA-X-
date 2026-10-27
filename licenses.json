@@ -521,7 +521,7 @@
     {
       "key": "S58M-YG10-SVIP",
       "discord": "837692190796152932",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
