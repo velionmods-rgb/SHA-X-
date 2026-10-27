@@ -517,6 +517,20 @@
       "hwid": "8c440c3d53d09ada22668c0252234a2bbe426af52498369608f91058e5e4b4ca",
       "ipadresse": "2e4806ac542e59c6055869a924cab5dc7dbcd33f06d74782f2b4394dc5b4e33a",
       "expires": "never"
+    },
+    {
+      "key": "S58M-YG10-SVIP",
+      "discord": "837692190796152932",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
