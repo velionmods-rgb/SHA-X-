@@ -535,7 +535,7 @@
     {
       "key": "TAD1-R58P-CY1G",
       "discord": "984741632853307422",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
