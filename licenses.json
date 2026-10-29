@@ -549,7 +549,7 @@
     {
       "key": "87IY-PLQA-2TS1",
       "discord": "523556145932009492",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
