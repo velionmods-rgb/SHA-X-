@@ -563,7 +563,7 @@
     {
       "key": "EUJ2-ZMTT-1MZR",
       "discord": "1251311070828691489",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
