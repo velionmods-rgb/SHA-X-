@@ -573,6 +573,20 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "OFA6-T6KI-6ICE",
+      "discord": "1188863847969329174",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
