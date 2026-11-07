@@ -587,6 +587,20 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "UJBW-P151-EFYR",
+      "discord": "450579704211177472",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
