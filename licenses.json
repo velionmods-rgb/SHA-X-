@@ -605,7 +605,7 @@
     {
       "key": "ZE6F-LJDK-QQ02",
       "discord": "564441516005654548",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
