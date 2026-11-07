@@ -592,7 +592,7 @@
       "key": "UJBW-P151-EFYR",
       "discord": "450579704211177472",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
