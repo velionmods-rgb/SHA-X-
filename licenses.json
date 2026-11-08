@@ -550,7 +550,7 @@
       "key": "87IY-PLQA-2TS1",
       "discord": "523556145932009492",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
