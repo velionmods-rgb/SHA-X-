@@ -1,8 +1,18 @@
-{
-  "key": "TEST",
-  "discord": "595966936307990529",
-  "active": true,
-  "hwid": "",
-  "ipadresse": "",
-  "expires": "never"
-}
+[
+  {
+    "key": "TEST",
+    "discord": "595966936307990529",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never"
+  },
+  {
+    "key": "081C-MSU8-93GQ",
+    "discord": "1380580801724420349",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never"
+  }
+]
