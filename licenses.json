@@ -625,7 +625,7 @@
       "lumberjack": false,
       "trucker": false,
       "electrican": false,
-      "active": true,
+      "active": false,
       "hwid": "c4348ca54db2e15dcfedc4d0822c31c4dc4e67da408e5dbcceb54d24aa71f158",
       "ipadresse": "4436f85b6737841180463340f2babf85516ab2ee25f9000332ce5578043a5382",
       "expires": "2026-11-08 19:37:00"
