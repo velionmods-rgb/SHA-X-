@@ -615,6 +615,20 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "DKUO-40TI-G1C4",
+      "discord": "1093949709900591105",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "2026-11-16 20:00:00"
     }
   ]
 }
