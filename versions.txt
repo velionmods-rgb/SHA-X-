@@ -1,3 +1,2 @@
-✅ Version: 1.0.1 | Released - 03.09.2026
-🛑 Version: 1.0.2 | SOON - Release at: 02.09.2026
-🛑 Version 1.0.3 | SOON - Release at: 03.09.2026
+✅ Version: 1.0.1 | Released - 11.11.2026
+🛑 Version: 1.0.2 | SOON - Release at: 31.11.2099
