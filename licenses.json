@@ -242,7 +242,7 @@
       "key": "FU€K-Y0U-NI66A",
       "discord": "495542434403450880",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
