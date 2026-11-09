@@ -634,7 +634,7 @@
       "key": "KQLE-2TVH-M7TL",
       "discord": "1233465321214574604",
       "fishing": false,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
