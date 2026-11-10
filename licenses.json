@@ -284,7 +284,7 @@
       "key": "FXA0-0B1C-ABC7",
       "discord": "1460219752520880181",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
