@@ -647,7 +647,7 @@
     {
       "key": "MZ4U-H3RG-Z7OI",
       "discord": "694581172327415908",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
