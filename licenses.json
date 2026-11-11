@@ -643,6 +643,20 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "MZ4U-H3RG-Z7OI",
+      "discord": "694581172327415908",
+      "fishing": false,
+      "oil": false,
+      "mining": false,
+      "lumberjack": false,
+      "trucker": false,
+      "electrican": false,
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
