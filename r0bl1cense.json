@@ -35,6 +35,15 @@
       "ipadresse": "",
       "expires": "never",
       "pc_username": "Unknown"
+    },
+    {
+      "key": "FU3K-M4YO-UA17",
+      "discord": "830096345338740737",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never",
+      "pc_username": "Unknown"
     }
   ]
 }
