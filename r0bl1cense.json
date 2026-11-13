@@ -17,6 +17,15 @@
       "ipadresse": "",
       "expires": "never",
       "pc_username": "Unknown"
+    },
+    {
+      "key": "AX7A-CA9B-98AV",
+      "discord": "1505562599603965992",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never",
+      "pc_username": "Unknown"
     }
   ]
 }
