@@ -84,6 +84,14 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "1CEC-4W43-EW8O",
+      "discord": "981510727993008139",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
