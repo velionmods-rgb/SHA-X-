@@ -52,6 +52,14 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "29KZ-LNE3-2DN5",
+      "discord": "1121859070488498196",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
