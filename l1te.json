@@ -47,5 +47,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-14T08:51:48+00:00"
+  },
+  {
+    "key": "EEGC-TWN6-URCL-ASX2",
+    "discord": "1118047935679176774",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-14T15:57:24+00:00"
   }
 ]
