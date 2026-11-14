@@ -76,6 +76,14 @@
       "hwid": "930e0ee8d1c8f54381e46e54b85083e0b4bfc51743bed33ee7402feef0d87d20",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "AEQ9-KCCK-PXT3",
+      "discord": "732907957830025256",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
