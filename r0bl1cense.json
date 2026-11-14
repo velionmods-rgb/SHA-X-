@@ -44,6 +44,14 @@
       "ipadresse": "",
       "expires": "never",
       "pc_username": "Unknown"
+    },
+    {
+      "key": "P52X-KEOB-C6Q2",
+      "discord": "595966936307990529",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
