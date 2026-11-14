@@ -38,5 +38,14 @@
     "hwid": "c4348ca54db2e15dcfedc4d0822c31c4dc4e67da408e5dbcceb54d24aa71f158",
     "ipadresse": "4436f85b6737841180463340f2babf85516ab2ee25f9000332ce5578043a5382",
     "expires": "2026-11-08 19:38:00"
+  },
+  {
+    "key": "52FB-7APK-992A-HP5V",
+    "discord": "840346706004410410",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-14T08:51:48+00:00"
   }
 ]
