@@ -60,6 +60,14 @@
       "hwid": "125f1ff205ff3943e7036d8410e81dc8b93cbce7e8e004e1611b35f7ec305578",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "Q7BK-U7MF-RVA8",
+      "discord": "756481777702535260",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
