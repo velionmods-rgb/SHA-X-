@@ -661,7 +661,7 @@
     {
       "key": "2Z1C-Q7ZL-77WO",
       "discord": "1300530856611414016",
-      "fishing": false,
+      "fishing": true,
       "oil": false,
       "mining": false,
       "lumberjack": false,
