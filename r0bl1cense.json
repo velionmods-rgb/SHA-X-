@@ -100,6 +100,14 @@
       "hwid": "c1b7bce02e3f159699fd7a8d484d03065b00d1b944bb5f39506ccff343100b7b",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "ASMS-PPXL-P36X",
+      "discord": "1218811241296953438",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
