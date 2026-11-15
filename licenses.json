@@ -676,7 +676,7 @@
       "key": "LTF5-0XRN-MKXR",
       "discord": "1571589837977428314",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
