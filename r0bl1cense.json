@@ -92,6 +92,14 @@
       "hwid": "37b83f0089feb30ae3b7a9a212d764e6c0f365a80c5322c13a71aa391cbb676c",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "IPGZ-O7ZA-NV0C",
+      "discord": "1038714429325447218",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
