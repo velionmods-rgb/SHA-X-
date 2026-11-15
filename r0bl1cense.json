@@ -116,6 +116,14 @@
       "hwid": "aefc66f2591420c4893cf29826ade6bd1312c985a707fe40afa730a9510bad01",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "KPLD-63X7-BPHS",
+      "discord": "1571322112591794230",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
