@@ -667,7 +667,7 @@
       "lumberjack": false,
       "trucker": false,
       "electrican": false,
-      "active": false,
+      "active": true,
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
