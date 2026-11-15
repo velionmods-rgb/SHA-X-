@@ -132,6 +132,14 @@
       "hwid": "c5a0c41a0afe653788edfe9c9d667acf3c1e6891a1e63eae9ac2815a47ed96bf",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "NGQH-DZOU-Z7MK",
+      "discord": "738082865715347566",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
