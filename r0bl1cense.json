@@ -108,6 +108,14 @@
       "hwid": "dd7b1fec2ab7b061cd4385a8fd79bd1b057a58ee2fb508f3c5e32001bc72db2f",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "6HHE-JXXZ-G9OE",
+      "discord": "1423199711422185472",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
