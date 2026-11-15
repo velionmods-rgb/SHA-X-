@@ -124,6 +124,14 @@
       "hwid": "e0f19b16ea0ff5d5478ed554b54645c2fb0f4e9bc7272ad34d17276871c745ae",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "ZWMV-DJC5-E4Y1",
+      "discord": "566547114981720065",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
