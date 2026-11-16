@@ -1,1 +1,20 @@
-
+{
+  "licenses": [
+    {
+      "key": "S81B-NGG3-9AB2",
+      "discord": "595966936307990529",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never",
+    },
+    {
+      "key": "F18B-AJD8-87AB",
+      "discord": "495542434403450880",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never",
+    }
+  ]
+}
