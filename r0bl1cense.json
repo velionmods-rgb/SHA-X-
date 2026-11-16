@@ -172,6 +172,14 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "GVWE-4KL2-SIFH",
+      "discord": "1513140446988079265",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
