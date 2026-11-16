@@ -140,6 +140,14 @@
       "hwid": "53f50df28f1d130f348f7bbbe37ad10b37f716f5e4f1d10a30b39ff21ff25fed",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "QVS6-7WB8-OBMD",
+      "discord": "1124536231372525708",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
