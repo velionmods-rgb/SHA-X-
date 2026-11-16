@@ -180,6 +180,14 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "5GIC-GHS8-HSJN",
+      "discord": "1129147167341297804",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
