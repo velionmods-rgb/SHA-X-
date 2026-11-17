@@ -152,7 +152,7 @@
     {
       "key": "O7A2-BVLB-AHD9",
       "discord": "925824176370110525",
-      "active": false,
+      "active": true,
       "hwid": "d36622960088b4f7b168df150d8a63548b7d98f62d13a4acc0bb41db76e05035",
       "ipadresse": "",
       "expires": "never"
