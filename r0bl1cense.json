@@ -204,6 +204,14 @@
       "hwid": "c0540ccb64f6ac25d3420f66287340d746646d722ac54b975bdeb8336f97467c",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "342I-R0KB-LF4Y",
+      "discord": "1502279389986029618",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
