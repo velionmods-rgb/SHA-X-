@@ -196,6 +196,14 @@
       "hwid": "595f82c7571436c87b66181d4e9d9fdfc3b4c206d9d04109c2980718a3b5e12f",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "F8GU-4SRW-ES4G",
+      "discord": "523556145932009492",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
