@@ -212,6 +212,14 @@
       "hwid": "1112f1955dfbdaaaa5119c0a0d06456dbea02b59a720090cf9b803c752276a19",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "GY02-F6SS-1TSI",
+      "discord": "1481932342842097726",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
