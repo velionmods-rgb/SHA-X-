@@ -220,6 +220,14 @@
       "hwid": "1a42d5431d67fa18ab59445d37356830cca5f9e702b84a75c6334dd1c027c84d",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "KGZ2-4Q3W-DN16",
+      "discord": "1380022765717028978",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
