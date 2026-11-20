@@ -236,6 +236,14 @@
       "hwid": "3fde28ab719438a6ec410e499cbe53db8353060d4fce53c6a1aa299952a960ab",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "20C7-Z4OG-C9PS",
+      "discord": "1289886702709772370",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
