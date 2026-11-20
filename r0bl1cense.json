@@ -252,6 +252,14 @@
       "hwid": "2ebb65bbcbe3fc1a76adc0fc45ffe017941de7e36f55e4e6474c5be62474c7d0",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "JN6Z-Z8IH-ZVBY",
+      "discord": "1403748806616416360",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
