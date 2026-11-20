@@ -690,7 +690,7 @@
       "key": "94GP-Q2TG-DQC6",
       "discord": "1376122642603442259",
       "fishing": true,
-      "oil": false,
+      "oil": true,
       "mining": false,
       "lumberjack": false,
       "trucker": false,
