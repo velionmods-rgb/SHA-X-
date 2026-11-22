@@ -128,5 +128,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-22T09:10:08+00:00"
+  },
+  {
+    "key": "V6YD-SHUZ-HN38-SEQV",
+    "discord": "1525572842819813416",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-22T09:12:56+00:00"
   }
 ]
