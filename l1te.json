@@ -281,5 +281,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-22T16:11:42+00:00"
+  },
+  {
+    "key": "KHHC-NKYA-JGTP-NFMW",
+    "discord": "1546481322057400360",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-22T16:21:37+00:00"
   }
 ]
