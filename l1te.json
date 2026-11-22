@@ -146,5 +146,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-22T09:13:27+00:00"
+  },
+  {
+    "key": "NTP7-EAWX-AK8P-7HWM",
+    "discord": "778919330444083202",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-22T09:19:27+00:00"
   }
 ]
