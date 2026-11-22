@@ -245,5 +245,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-22T12:23:55+00:00"
+  },
+  {
+    "key": "FS55-SQ3R-HKTS-P6TU",
+    "discord": "962352910946152478",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-22T12:27:47+00:00"
   }
 ]
