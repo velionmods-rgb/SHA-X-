@@ -164,5 +164,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-22T09:20:09+00:00"
+  },
+  {
+    "key": "AD39-ZL2M-QMS2-8FZ2",
+    "discord": "1567250252023734283",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-22T09:35:35+00:00"
   }
 ]
