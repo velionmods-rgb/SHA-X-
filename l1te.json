@@ -137,5 +137,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-22T09:12:56+00:00"
+  },
+  {
+    "key": "RBHY-DS7E-YY6F-RYLR",
+    "discord": "1052130630860820480",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-22T09:13:27+00:00"
   }
 ]
