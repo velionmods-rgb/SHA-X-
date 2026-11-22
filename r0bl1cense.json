@@ -260,6 +260,14 @@
       "hwid": "5d6c61a48bea05e0b49eb417f5486790328f9b2325bd69729ca820b4e4d6c34d",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "6NGV-QNJZ-CI9G",
+      "discord": "769189080549818447",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
