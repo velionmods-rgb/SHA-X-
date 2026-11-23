@@ -623,5 +623,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T17:38:44+00:00"
+  },
+  {
+    "key": "AHCS-EGJU-KS8K-P3XV",
+    "discord": "1274762006779658270",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T18:18:26+00:00"
   }
 ]
