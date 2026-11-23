@@ -452,5 +452,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T11:28:08+00:00"
+  },
+  {
+    "key": "LVLT-CDF5-9NBX-NS46",
+    "discord": "1384190699838373920",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T11:40:54+00:00"
   }
 ]
