@@ -362,5 +362,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T05:57:53+00:00"
+  },
+  {
+    "key": "RFGX-U86H-ERUQ-6AX2",
+    "discord": "1523678389704200264",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T07:21:46+00:00"
   }
 ]
