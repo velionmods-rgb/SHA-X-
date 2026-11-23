@@ -461,5 +461,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T11:40:54+00:00"
+  },
+  {
+    "key": "DVPT-PC9N-KYG6-MRPA",
+    "discord": "1296179918232748034",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T11:41:22+00:00"
   }
 ]
