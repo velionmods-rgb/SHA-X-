@@ -506,5 +506,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T13:41:50+00:00"
+  },
+  {
+    "key": "KM9C-64B8-D4AQ-GZFL",
+    "discord": "1483759908460560425",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T13:42:12+00:00"
   }
 ]
