@@ -479,5 +479,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T11:46:16+00:00"
+  },
+  {
+    "key": "2KEL-FCKM-TEN8-VWRK",
+    "discord": "1229835428732076142",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T11:50:21+00:00"
   }
 ]
