@@ -497,5 +497,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T13:19:49+00:00"
+  },
+  {
+    "key": "CTH8-68U8-RHTL-RZAU",
+    "discord": "1515390519231119514",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T13:41:50+00:00"
   }
 ]
