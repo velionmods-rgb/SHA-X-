@@ -443,5 +443,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T11:24:35+00:00"
+  },
+  {
+    "key": "EAU8-8PTA-FRQA-55S7",
+    "discord": "1567843280648142872",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T11:28:08+00:00"
   }
 ]
