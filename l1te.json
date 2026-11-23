@@ -722,5 +722,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T22:11:17+00:00"
+  },
+  {
+    "key": "FGNX-RNHB-X5L5-NP9H",
+    "discord": "1255888754690883669",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-23T23:32:47+00:00"
   }
 ]
