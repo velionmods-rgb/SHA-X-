@@ -740,5 +740,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-23T23:59:27+00:00"
+  },
+  {
+    "key": "ULZE-2A9D-Y5NN-GC4N",
+    "discord": "1162390905626579034",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-24T00:47:30+00:00"
   }
 ]
