@@ -749,5 +749,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-24T00:47:30+00:00"
+  },
+  {
+    "key": "KZCC-WRP8-RYW7-9V2N",
+    "discord": "767763590987120690",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-24T05:40:46+00:00"
   }
 ]
