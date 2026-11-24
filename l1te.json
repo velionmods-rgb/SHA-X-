@@ -848,5 +848,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-24T16:57:35+00:00"
+  },
+  {
+    "key": "AFEB-2TGT-NB48-9VPG",
+    "discord": "1477644010255421521",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-24T17:06:41+00:00"
   }
 ]
