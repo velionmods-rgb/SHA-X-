@@ -884,5 +884,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-24T20:29:04+00:00"
+  },
+  {
+    "key": "PMPS-YB6A-2VT7-SV8L",
+    "discord": "1502749296829661348",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-24T20:52:02+00:00"
   }
 ]
