@@ -284,6 +284,14 @@
       "hwid": "",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "T12E-ZWMN-JB76",
+      "discord": "1154684268409258134",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "2026-11-27 01:04:00"
     }
   ]
 }
