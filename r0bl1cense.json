@@ -276,6 +276,14 @@
       "hwid": "2ea3e36140af2963910c17c682d29d70462d0c0cd0c21f6fe45f68f089aa0558",
       "ipadresse": "",
       "expires": "never"
+    },
+    {
+      "key": "9IBE-2OSK-ZPY8",
+      "discord": "1110233794608386048",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
