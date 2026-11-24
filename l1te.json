@@ -875,5 +875,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-24T20:03:45+00:00"
+  },
+  {
+    "key": "SYNT-E3NF-XGNK-FAAP",
+    "discord": "1336708645047500914",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-24T20:29:04+00:00"
   }
 ]
