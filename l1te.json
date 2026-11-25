@@ -956,5 +956,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-25T12:08:29+00:00"
+  },
+  {
+    "key": "GUGA-FFWE-8HTB-7H65",
+    "discord": "839415942319570946",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-25T12:25:49+00:00"
   }
 ]
