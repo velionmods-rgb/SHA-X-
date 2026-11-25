@@ -292,6 +292,14 @@
       "hwid": "437257b7f38d2d6cd675b071216e1a2a6f2ad54786a4b78881caeed6fd91eb07",
       "ipadresse": "",
       "expires": "2026-11-27 01:04:00"
+    },
+    {
+      "key": "95CR-4JC7-90JM",
+      "discord": "296956029361455105",
+      "active": true,
+      "hwid": "",
+      "ipadresse": "",
+      "expires": "never"
     }
   ]
 }
