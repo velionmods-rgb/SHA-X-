@@ -1046,5 +1046,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-25T21:31:07+00:00"
+  },
+  {
+    "key": "HCE2-782M-RVA6-EW24",
+    "discord": "1415466768318726337",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-25T21:33:38+00:00"
   }
 ]
