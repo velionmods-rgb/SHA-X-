@@ -992,5 +992,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-25T15:07:53+00:00"
+  },
+  {
+    "key": "RTWS-2J87-89QV-AUQB",
+    "discord": "1368286023146147881",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-25T17:01:20+00:00"
   }
 ]
