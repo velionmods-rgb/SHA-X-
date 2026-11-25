@@ -965,5 +965,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-25T12:25:49+00:00"
+  },
+  {
+    "key": "3DCV-AE3M-KNYP-65QS",
+    "discord": "1204042853916086312",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-25T13:42:13+00:00"
   }
 ]
