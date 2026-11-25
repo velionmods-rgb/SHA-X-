@@ -911,5 +911,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-24T23:44:24+00:00"
+  },
+  {
+    "key": "PFQM-2H67-MQJJ-TXST",
+    "discord": "1292309936377823285",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-25T02:07:11+00:00"
   }
 ]
