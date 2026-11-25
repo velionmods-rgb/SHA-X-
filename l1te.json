@@ -1001,5 +1001,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-25T17:01:20+00:00"
+  },
+  {
+    "key": "BDQP-9TJN-BC4V-YB8A",
+    "discord": "1520025630547116088",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-25T17:22:41+00:00"
   }
 ]
