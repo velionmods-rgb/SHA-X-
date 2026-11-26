@@ -1091,5 +1091,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-26T02:08:03+00:00"
+  },
+  {
+    "key": "RC49-8T4V-ZG5C-LTE3",
+    "discord": "1549060041779187813",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-26T02:43:59+00:00"
   }
 ]
