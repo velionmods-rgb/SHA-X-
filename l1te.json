@@ -1145,5 +1145,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-26T08:01:36+00:00"
+  },
+  {
+    "key": "STXT-3VKL-GVQP-S9QM",
+    "discord": "710246123360747522",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-26T13:51:43+00:00"
   }
 ]
