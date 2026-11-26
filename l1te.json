@@ -1190,5 +1190,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-26T20:26:35+00:00"
+  },
+  {
+    "key": "SD7D-8LSB-HZC7-LAE4",
+    "discord": "988037674508091483",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-26T20:47:06+00:00"
   }
 ]
