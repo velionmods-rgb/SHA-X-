@@ -1392,7 +1392,7 @@
   {
     "key": "ANEF-KLLD-W8LP-4VJ9",
     "discord": "1238345349710745613",
-    "active": false,
+    "active": true,
     "hwid": "",
     "ipadresse": "",
     "expires": "never",
