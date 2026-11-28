@@ -1388,5 +1388,14 @@
     "ipadresse": "",
     "expires": "never",
     "created": "2026-11-28T09:45:21+00:00"
+  },
+  {
+    "key": "ANEF-KLLD-W8LP-4VJ9",
+    "discord": "1238345349710745613",
+    "active": true,
+    "hwid": "",
+    "ipadresse": "",
+    "expires": "never",
+    "created": "2026-11-28T10:40:51+00:00"
   }
 ]
